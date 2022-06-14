@@ -1,5 +1,5 @@
 # NativePayload_DynLCI
-NativePayload_DynLCE , Dynamic Local Code Invoke , Injecting Meterpreter Payload bytes into local Process
+NativePayload_DynLCI , Dynamic Local Code Invoke , Injecting Meterpreter Payload bytes into local Process
 
 Simple C# code for Dynamic Injecting Codes from command-prompt Argument into local Process and Dynamic Invoke payload in-memory....
 
