@@ -10,10 +10,7 @@ Usage:
      
      
      
-     
-###  NativePayload_DynLCI.exe "meterpreter/cobaltstrike payload"
-   ![](https://github.com/DamonMohammadbagher/NativePayload_DynLCI/blob/main/NativePayload_DynLCI.png)
-   
+      
    
    
  <p><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/DamonMohammadbagher/NativePayload_DynLCI"/></a></p>
